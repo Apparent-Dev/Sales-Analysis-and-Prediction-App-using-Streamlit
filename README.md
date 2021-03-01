@@ -16,7 +16,7 @@ of apps (web apps) can be used to get an overview of a company and its performan
 To run the app on your local machine follow the following instruction after cloning the repo.
 In [Streamlit App folder](/streamlit_app) : 
 * Install all the dependecies using [requirements.txt](/streamlit_app/requirements.txt) using 
-<br>```pip install requirements.txt```
+<br>```pip install -r requirements.txt```
 * Set all the correct local path\directory for the data dependencies from [data](\data) in [config.py](\streamlit_app]config.py) 
 
 ## Deployment 
